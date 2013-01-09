@@ -1,4 +1,4 @@
-Please come and say hi at the forums: http://www.openfantasy.org/forums
+Please come and say hi at the forums: http://openfantasy.org/forums
 
 
 
@@ -64,7 +64,7 @@ egdcltd, cal361, himmelweiss, LagunaCid, Chaos, vash1468, ShadowTek, NinjaKitten
 
 If I missed any of you email me and I will update ASAP (sorry!). Likewise if you feel that you do not want to be on this list.
 
-Please come say hi on the forums at http://www.openfantasy.org/forums
+Please come say hi on the forums at http://openfantasy.org/forums
 
 
 
