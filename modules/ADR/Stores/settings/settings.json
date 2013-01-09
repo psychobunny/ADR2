@@ -1,0 +1,20 @@
+{
+    "sth": {
+        "type": "text",
+        "name": "Controlled by JSON",
+        "description": "Did you know that the form is automagically created from JSON?",
+        "value": "blah de blah de blah"
+    },
+    "validate_email": {
+        "type": "checkbox",
+        "name": "Validate Email",
+        "description": "Check this if you want users to validate their email before they can log in.",
+        "value": false
+    },
+    "sthelse": {
+        "type": "textarea",
+        "name": "Welcome Email",
+        "description": "Type a message that you would like a user to see upon registration.",
+        "value": "blah de blah de blahblah de blah de blahblah de blah de blahblah de blah de blahblah de blah de blahblah de blah de blahblah de blah de blah"
+    }
+}
